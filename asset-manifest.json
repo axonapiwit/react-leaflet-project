@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//axonapiwit.github.io/react-leaflet-project/static/css/main.d50e6cb0.css",
+    "main.js": "//axonapiwit.github.io/react-leaflet-project/static/js/main.6893ebca.js",
+    "static/js/787.574cdd06.chunk.js": "//axonapiwit.github.io/react-leaflet-project/static/js/787.574cdd06.chunk.js",
+    "index.html": "//axonapiwit.github.io/react-leaflet-project/index.html",
+    "main.d50e6cb0.css.map": "//axonapiwit.github.io/react-leaflet-project/static/css/main.d50e6cb0.css.map",
+    "main.6893ebca.js.map": "//axonapiwit.github.io/react-leaflet-project/static/js/main.6893ebca.js.map",
+    "787.574cdd06.chunk.js.map": "//axonapiwit.github.io/react-leaflet-project/static/js/787.574cdd06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d50e6cb0.css",
+    "static/js/main.6893ebca.js"
+  ]
+}
