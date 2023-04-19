@@ -1,4 +1,4 @@
-<div style="display:flex; flex-wrap: no-wrap;">
+<div style="display:flex;">
    <img src="public/images/Mappa.png" />
    <img src="public/images/Mappa-Detail.png" />
 </div>
