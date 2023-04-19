@@ -1,6 +1,6 @@
 <div style="display:flex; flex-wrap: wrap;">
-   <img src="public/images/Mappa.png" width="30%" />
-   <img src="public/images/Mappa-Detail.png" width="30%" />
+   <img src="public/images/Mappa.png" width="50%" />
+   <img src="public/images/Mappa-Detail.png" width="50%" />
 </div>
 
 # Getting Started with Create React App
