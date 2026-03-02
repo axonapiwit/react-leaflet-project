@@ -12,7 +12,7 @@ const AqiLegend = () => {
   const [open, setOpen] = useState(true);
 
   return (
-    <div className="absolute bottom-6 left-4 z-[1000]">
+    <div className="absolute bottom-6 right-4 z-[1000]">
       <button
         onClick={() => setOpen(!open)}
         className="bg-white/90 backdrop-blur-md shadow-lg rounded-xl px-3 py-2 text-xs font-semibold text-gray-600 hover:bg-white transition mb-2 flex items-center gap-1.5"
