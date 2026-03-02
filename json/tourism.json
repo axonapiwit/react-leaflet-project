@@ -6,7 +6,8 @@
         "sub_district": "สุเทพ",
         "district": "เมืองเชียงใหม่",
         "province": "เชียงใหม่",
-        "zipcode": "50200"
+        "zipcode": "50200",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Chiang-Mai_Thailand_Wat-Phra-That-Doi-Suthep-01.jpg/600px-Chiang-Mai_Thailand_Wat-Phra-That-Doi-Suthep-01.jpg"
     },
     {
         "lat": "20.2000",
@@ -15,7 +16,8 @@
         "sub_district": "ป่าซาง",
         "district": "แม่จัน",
         "province": "เชียงราย",
-        "zipcode": "57110"
+        "zipcode": "57110",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wat_Rong_Khun-001.jpg/600px-Wat_Rong_Khun-001.jpg"
     },
     {
         "lat": "8.064944",
@@ -24,7 +26,8 @@
         "sub_district": "เขาพนม",
         "district": "ทับปุด",
         "province": "พังงา",
-        "zipcode": "82170"
+        "zipcode": "82170",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Phang_Nga_Bay%2C_Karst_formations%2C_Thailand.jpg/600px-Phang_Nga_Bay%2C_Karst_formations%2C_Thailand.jpg"
     },
     {
         "lat": "7.834123",
@@ -33,7 +36,8 @@
         "sub_district": "อ่าวนาง",
         "district": "เมืองกระบี่",
         "province": "กระบี่",
-        "zipcode": "81000"
+        "zipcode": "81000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ao_Nang_-_Nopparat_Thara_Beach_-_0012.jpg/600px-Ao_Nang_-_Nopparat_Thara_Beach_-_0012.jpg"
     },
     {
         "lat": "13.7219876",
@@ -42,7 +46,8 @@
         "sub_district": "ตลิ่งชัน",
         "district": "ทุ่งครุ",
         "province": "กรุงเทพมหานคร",
-        "zipcode": "10140"
+        "zipcode": "10140",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Temple_of_the_Emerald_Buddha.jpg/600px-Temple_of_the_Emerald_Buddha.jpg"
     },
     {
         "lat": "12.5684",
@@ -51,7 +56,8 @@
         "sub_district": "หัวหิน",
         "district": "หัวหิน",
         "province": "ประจวบคีรีขันธ์",
-        "zipcode": "77110"
+        "zipcode": "77110",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hua_Hin%2C_Public_Beach_-_panoramio.jpg/600px-Hua_Hin%2C_Public_Beach_-_panoramio.jpg"
     },
     {
         "lat": "9.1450",
@@ -60,7 +66,8 @@
         "sub_district": "อ่างทอง",
         "district": "เกาะสมุย",
         "province": "สุราษฎร์ธานี",
-        "zipcode": "84310"
+        "zipcode": "84310",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Koh_Samui%2C_Island%2C_Beach%2C_Thailand.jpg/600px-Koh_Samui%2C_Island%2C_Beach%2C_Thailand.jpg"
     },
     {
         "lat": "8.0177721",
@@ -69,7 +76,8 @@
         "sub_district": "เกาะพระทอง",
         "district": "เมืองพังงา",
         "province": "พังงา",
-        "zipcode": "82000"
+        "zipcode": "82000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mu_Ko_Similan_National_Park_Phang_Nga_%2CThailand.jpg/600px-Mu_Ko_Similan_National_Park_Phang_Nga_%2CThailand.jpg"
     },
     {
         "lat": "9.1065339",
@@ -78,7 +86,8 @@
         "sub_district": "เกาะพีพีเหนือ",
         "district": "เกาะพีพี",
         "province": "กระบี่",
-        "zipcode": "81150"
+        "zipcode": "81150",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maya_Bay%2C_Koh_Phi_Phi%2C_Krabi%2C_Thailand.jpg/600px-Maya_Bay%2C_Koh_Phi_Phi%2C_Krabi%2C_Thailand.jpg"
     },
     {
         "lat": "7.6155725",
@@ -87,6 +96,7 @@
         "sub_district": "เกาะลันตาน้อย",
         "district": "เมืองสุราษฎร์ธานี",
         "province": "สุราษฎร์ธานี",
-        "zipcode": "84000"
+        "zipcode": "84000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ko_Tao%2C_Ko_Pha-ngan_District%2C_Surat_Thani%2C_Thailand_-_panoramio_%2818%29.jpg/600px-Ko_Tao%2C_Ko_Pha-ngan_District%2C_Surat_Thani%2C_Thailand_-_panoramio_%2818%29.jpg"
     }
 ]
