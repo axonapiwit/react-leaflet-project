@@ -1,17 +1,49 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.aqi-marker {
+  background: transparent !important;
+  border: none !important;
+}
+.aqi-marker > div:hover {
+  transform: scale(1.2);
+}
+
+.custom-popup .leaflet-popup-content-wrapper {
+  border-radius: 16px;
+  padding: 0;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.12);
+  border: 1px solid rgba(0, 0, 0, 0.04);
+}
+.custom-popup .leaflet-popup-content {
+  margin: 14px 16px;
+  font-family: 'Inter', -apple-system, sans-serif;
+}
+.custom-popup .leaflet-popup-tip {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.leaflet-control-layers {
+  border-radius: 12px !important;
+  border: none !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(8px);
+  background: rgba(255, 255, 255, 0.9) !important;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fade-in 0.2s ease-out;
 }
